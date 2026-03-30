@@ -1,0 +1,10 @@
+apiVersion: cninf.my.domain/v1alpha1
+kind: ObjStore
+metadata:
+  labels:
+    app.kubernetes.io/name: cninf
+    app.kubernetes.io/managed-by: kustomize
+  name: fpmlil-01
+spec:
+  name: fpmlillive-extk8s-01
+  locked: false

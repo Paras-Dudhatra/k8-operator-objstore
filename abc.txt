@@ -1,2 +1,0 @@
-This is abc.txt
-Added more
