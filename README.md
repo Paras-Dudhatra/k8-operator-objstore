@@ -1,8 +1,8 @@
 # cninf
-// TODO(user): Add simple overview of use/purpose
+Purpose of this project is to create storage folder for new CRD created in cluster
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+This will create directory in the current folder for object of CRD ObjStore upon creation
 
 ## Getting Started
 
