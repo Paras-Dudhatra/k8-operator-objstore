@@ -3,6 +3,7 @@ Purpose of this project is to create storage folder for new CRD created in clust
 
 ## Description
 This will create directory in the current folder for object of CRD ObjStore upon creation
+Will add Finalizer in Reconcile Method to make sure Folder is deleted when CR ObjStore is deleted
 
 ## Getting Started
 
